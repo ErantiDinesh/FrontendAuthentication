@@ -33,7 +33,7 @@ const clickedLogout = () => {
                 <p className='userItemStyle'>City: </p>
                 <p className='userData'> {getData.user_city} </p>
             </div>
-            <div className='DataItemBox1'>
+            <div className='DataItemBox'>
                 <p className='userItemStyle'>Zip Code: </p>
                 <p className='userData'> {getData.user_zipcode} </p>
             </div>
