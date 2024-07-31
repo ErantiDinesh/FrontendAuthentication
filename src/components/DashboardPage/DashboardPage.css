@@ -1,0 +1,55 @@
+
+.dashboardContainer {
+    background-color: rgb(139, 139, 219);
+    height: 100vh;
+    width: 100vw;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.detailsBox {
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 8px;
+    padding-bottom: 25px;
+}
+.detailsPara {
+    font-weight: bold;
+}
+
+.userItem {
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+   
+}
+
+.userItemStyle {
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+    width: 100px;
+}
+
+.userData {
+    color: black;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.DataItemBox {
+    display: flex;
+    margin: 0px;
+    height: 30px;
+}
+
+.logOutButton {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 80px;
+    margin-top: 10px;
+}
